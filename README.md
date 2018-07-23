@@ -3,7 +3,7 @@ Tecnical Sessions Programs
 
 ## Steps to Follow
 1. Create Feature Branch as 
-## Name_Date<dd/mm/yy/>_Session<number>_Program_Title
+## Name-Date<dd/mm/yy/>-Session<number>-Program-Title
   
 2. Give commit title as 
 ## Date<mm/dd/yy> #Name #Description
